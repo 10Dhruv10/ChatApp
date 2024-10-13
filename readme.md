@@ -1,3 +1,4 @@
 In this project I have used django, html, css.
 
-In this application the user can enter the Chat Lobbies using their username and room code and then they can chat.
+The user can enter Chat Lobbies using their username and room code.
+Then they can proceed to chat in the same lobby.
